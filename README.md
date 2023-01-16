@@ -1,5 +1,1 @@
-RSA-Factoring-Challenge
-
-./factors
-
-./rsa 
+RSA-Factoring-Challenge - John Mugo
